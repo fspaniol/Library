@@ -1,5 +1,4 @@
 package model;
 
-public class Superstaff {
-
+public class Superstaff extends Staff{
 }

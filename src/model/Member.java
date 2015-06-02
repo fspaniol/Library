@@ -1,5 +1,6 @@
 package model;
 
-public class Member {
-
+public class Member extends Person{
+	int id;
+	int rented;
 }
